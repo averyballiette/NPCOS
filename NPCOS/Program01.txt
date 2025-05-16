@@ -1,0 +1,2 @@
+WRITE_TO_MEMORY
+
